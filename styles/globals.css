@@ -1,9 +1,14 @@
 html,
 body {
+  background-color: #f2c6b7;
+
   padding: 0;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-family: Courier, sans-serif;
+}
+
+body {
+  border-top: 1rem solid fuchsia;
 }
 
 a {
